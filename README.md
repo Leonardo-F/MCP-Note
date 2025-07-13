@@ -9,4 +9,4 @@
 课程地址：https://www.datawhale.cn/learn/summary/194
 
 ## 笔记目录
-- Task 1 初始 MCP：
+- Task 1 [初识 MCP](docs/ch01/ch01.md)；
